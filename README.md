@@ -1,5 +1,5 @@
 # ServiceLifeCycle-ServicesInJava
-                          Services in Java
+                          Services in Java Method 1) postUpdateRequest 2) updateRecord 3) inputRecord
 
 dono method ma major ya faraq ha ka dono ofs ka throw data post karta hai aik post karak queue ma dalata hai or aik ofs ka karta hai direct post karta hai without queue ma.
 
@@ -10,4 +10,7 @@ is mehtod ma hum record ko post kar sakta hai matlab insert kar sakta hai asynch
 
 updateRecord 
 : is mehthod ma hum record ko update kar sakta hai kisi bhi table ma . or is mehtod ko batch call karta hai matlab batch>JOB.CONTROL. or iski EB.API call karti hai batch file ka name ko or version should not be comma mode or is ma hum source id ni data jabka postUpdateRequest wala mehtod ma huma dana lazmi hai nad ya method updateRecord forefully update kardaga db ma.
+
+
+3) inputRecord is ma 
  
