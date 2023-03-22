@@ -13,7 +13,7 @@ is mehtod ma hum record ko post kar sakta hai matlab insert kar sakta hai asynch
 
 2)
 updateRecord 
-: is mehthod ma hum record ko update kar sakta hai kisi bhi table ma . or is mehtod ko batch call karta hai matlab batch>JOB.CONTROL. or iski EB.API call karti hai batch file ka name ko or version should not be comma mode or is ma hum source id ni data jabka postUpdateRequest wala mehtod ma huma dana lazmi hai nad ya method updateRecord forefully update kardaga db ma.
+: is mehthod ma hum record ko update kar sakta hai kisi bhi table ma . or is mehtod ko batch call karta hai matlab batch>JOB.CONTROL. or iski EB.API call karti hai batch file ka name ko or version should not be comma mode or is ma hum source id bhi dasakta hai jabka postUpdateRequest wala mehtod ma huma dana lazmi hai nad ya method updateRecord forefully update kardaga db ma.
 
 
 3) inputRecord is absolute hogaya hai updateRecord pa
